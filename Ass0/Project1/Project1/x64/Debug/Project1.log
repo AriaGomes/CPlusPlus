@@ -1,0 +1,4 @@
+﻿  ass0.c
+Z:\C Plus Plus\Ass0\Project1\Project1\ass0.c(84,2): warning C4002: too many arguments for function-like macro invocation 'free'
+Z:\C Plus Plus\Ass0\Project1\Project1\ass0.c(103,2): warning C4002: too many arguments for function-like macro invocation 'free'
+  Project1.vcxproj -> Z:\C Plus Plus\Ass0\Project1\x64\Debug\ass0.exe
